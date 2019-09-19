@@ -1,0 +1,2 @@
+# Integer, players within this radius of a person who uses /roll will be notified of the result of the roll
+rollbroadcastdistance: 30
