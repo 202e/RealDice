@@ -1,0 +1,5 @@
+name: RealDice
+version: 1.0.0
+author: 202e
+main: io.github._202e.realdice.RealDice
+api-version: 1.14
