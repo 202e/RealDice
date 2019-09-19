@@ -65,7 +65,7 @@ public class DiceRoll {
         return values;
     }
 
-    private static String formatOutcome(int[] outcome, String formula) {
+    public static String formatOutcome(int[] outcome, String formula) {
         StringBuilder out = new StringBuilder();
         out.append(" ← ").append(outcome[0]);
         int sum = outcome[0];
